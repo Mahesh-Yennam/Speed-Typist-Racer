@@ -1,0 +1,16 @@
+{
+  "name": "Speed Typist Racer - Arcade WPM Typing Race Game",
+  "short_name": "Speed Typist",
+  "description": "Accelerate your race car across the track by typing words accurately before opponents overtake you.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
